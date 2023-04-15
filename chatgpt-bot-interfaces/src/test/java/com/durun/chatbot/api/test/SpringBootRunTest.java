@@ -58,7 +58,7 @@ public class SpringBootRunTest {
     }
     @Test
     public void test_OpenAI() throws IOException {
-        logger.info(openAi.doChatGPT("  女朋友冷暴力我怎么办", role, openai_key, model, temperature));
+        logger.info(openAi.doChatGPT("女朋友冷暴力我怎么办", role, openai_key, model, temperature));
     }
 
 }
