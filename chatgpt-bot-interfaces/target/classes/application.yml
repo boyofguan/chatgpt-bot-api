@@ -1,2 +1,12 @@
 server:
   port: 8090
+
+chat-api:
+  groupId: 15552518841512
+  cookie: zsxq_access_token=7AADDF18-7D65-CFA3-0526-8C57ABCAF7E4_68FFCC7EEC3E7017; sensorsdata2015jssdkcross={"distinct_id":"186fe00e4dce2-09eaa62bf74a848-26021e51-1638720-186fe00e4dd9f0","first_id":"","props":{"$latest_traffic_source_type":"直接流量","$latest_search_keyword":"未取到值_直接打开","$latest_referrer":""},"identities":"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg2ZmUwMGU0ZGNlMi0wOWVhYTYyYmY3NGE4NDgtMjYwMjFlNTEtMTYzODcyMC0xODZmZTAwZTRkZDlmMCJ9","history_login_id":{"name":"","value":""},"$device_id":"186fe00e4dce2-09eaa62bf74a848-26021e51-1638720-186fe00e4dd9f0"}; zsxqsessionid=475f20f07a27f04cdd12bb901b76ab0d; abtest_env=product
+
+open-ai:
+  api-key: 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
+  temperature: 0.7
+  model: gpt-3.5-turbo
+  role: user
